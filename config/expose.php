@@ -13,7 +13,7 @@ return [
     | Feel free to host your own server and change this value.
     |
     */
-    'host' => 'sharedwithexpose.com',
+    'host' => 'expose.w4service.at',
 
     /*
     |--------------------------------------------------------------------------
